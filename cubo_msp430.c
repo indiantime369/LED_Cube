@@ -1,4 +1,3 @@
-/* Rinku Malhotra 2015 rinku.malhotra@stthomas on 8x8x8 LED Cube Project         */
 /*                                                                               */
 /* Target = MSP430 Launchpad                                                     */
 //*********************************************************************************
